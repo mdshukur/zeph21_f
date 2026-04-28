@@ -385,9 +385,6 @@ body {
  padding-bottom:120px;
 }
 
-@media (max-width: 768px) {
-
-}
 
 /* --- 4. FILTER NAVIGATION --- */
 .filter-nav {
@@ -503,3 +500,7 @@ body {
   color: #42dca3 !important;
   font-size: 10px;
 }
+
+
+
+
